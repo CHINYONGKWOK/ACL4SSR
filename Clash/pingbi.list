@@ -1,4 +1,3 @@
-# 内容：屏蔽  DMM
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,special.dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
@@ -16,4 +15,3 @@ DOMAIN-SUFFIX,trxs.cc
 DOMAIN-SUFFIX,69yuedu.net
 DOMAIN-SUFFIX,69shuba.cx
 DOMAIN-SUFFIX,69shuba.com
-DOMAIN-SUFFIX,sessions-bugsnag.docker.com
